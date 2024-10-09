@@ -3053,6 +3053,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
+				color: #ddd;
 				background-attachment: scroll;
 				background-position: top left, center center;
 				background-size: auto,		cover;
@@ -3067,6 +3068,7 @@ input, select, textarea {
 
 				#header h1 {
 					font-size: 1.75em;
+					color: #ccc;
 				}
 
 					#header h1 br {
